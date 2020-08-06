@@ -12,7 +12,7 @@ go
 -- ===========================
 --       File: OmitCharacters
 --    Created: 07/22/2020
---    Updated: 07/29/2020
+--    Updated: 08/06/2020
 -- Programmer: Cuates
 --  Update By: Cuates
 --    Purpose: Omit characters
