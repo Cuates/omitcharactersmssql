@@ -57,7 +57,7 @@ begin
       declare @unicodeTempTable table
       (
         unicodeID int identity (1, 1) primary key,
-        unicodeNumber int null null
+        unicodeNumber int null
       )
 
       -- Loop through user defined string
